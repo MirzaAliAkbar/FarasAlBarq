@@ -440,7 +440,7 @@ blockquote:before {
   position: absolute;
   left: 0;
   top: 0;
-  color: #7141b1;
+  color: #ad3806;
 }
 blockquote cite {
   font-family: "Nunito Sans", sans-serif;
@@ -497,7 +497,7 @@ big {
 }
 
 .bg-second {
-  background: #7141b1;
+  background: #ad3806;
 }
 
 .text-primary {
@@ -505,7 +505,7 @@ big {
 }
 
 .text-second {
-  color: #7141b1;
+  color: #ad3806;
 }
 
 .text-dark {
@@ -682,7 +682,7 @@ big {
 }
 
 .slick-dots li.slick-active button:before {
-  color: #7141b1;
+  color: #ad3806;
   font-size: 45px;
   left: -2px;
 }
@@ -822,16 +822,16 @@ td {
   color: #fff;
 }
 .octf-btn:hover, .octf-btn:focus {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 
 .octf-btn.octf-btn-second {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 .octf-btn.octf-btn-second:visited {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 .octf-btn.octf-btn-second:hover, .octf-btn.octf-btn-second:focus {
@@ -973,11 +973,11 @@ a {
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -ms-transition: all 0.3s linear;
-  color: #7141b1;
+  color: #ad3806;
   text-decoration: none;
 }
 a:visited {
-  color: #7141b1;
+  color: #ad3806;
 }
 a:hover, a:focus, a:active {
   color: #43baff;
@@ -2390,14 +2390,14 @@ a:hover, a:active {
   margin-right: 6px;
 }
 .post-box .post-cat a:hover {
-  background: #7141b1;
+  background: #ad3806;
 }
 .post-box .entry-meta {
   text-transform: capitalize;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #7141b1;
+  color: #ad3806;
   margin-bottom: 13px;
 }
 .post-box .entry-meta > span {
@@ -2405,7 +2405,7 @@ a:hover, a:active {
   display: inline-block;
 }
 .post-box .entry-meta a {
-  color: #7141b1;
+  color: #ad3806;
 }
 .post-box .entry-meta a:hover {
   color: #43baff;
@@ -2464,7 +2464,7 @@ a:hover, a:active {
   color: #43baff;
 }
 .post-box .link-box i {
-  color: #7141b1;
+  color: #ad3806;
   margin-right: 15px;
 }
 .post-box .link-box i:before {
@@ -2476,7 +2476,7 @@ a:hover, a:active {
 }
 .post-box .quote-box i {
   float: left;
-  color: #7141b1;
+  color: #ad3806;
 }
 .post-box .quote-box i:before {
   font-size: 32px;
@@ -2662,7 +2662,7 @@ a:hover, a:active {
   margin-bottom: 0;
 }
 .blog-post .tagcloud a:hover {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 .blog-post .entry-footer {
@@ -3055,7 +3055,7 @@ a:hover, a:active {
   color: #6d6d6d;
 }
 .comment-form .logged-in-as a:hover {
-  color: #7141b1;
+  color: #ad3806;
 }
 .comment-form input[type=text],
 .comment-form input[type=email] {
@@ -3111,7 +3111,7 @@ a:hover, a:active {
   display: inline-block;
 }
 .widget .tagcloud a:hover {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 
@@ -3157,7 +3157,7 @@ a:hover, a:active {
   -ms-transition: all 0.35s linear;
 }
 .widget-area .widget ul:not(.recent-news) > li a:hover {
-  color: #7141b1;
+  color: #ad3806;
 }
 .widget-area .widget ul:not(.recent-news) > li .posts-count {
   color: #b5b5b5;
@@ -3204,7 +3204,7 @@ a:hover, a:active {
   top: 0;
   opacity: 0;
   visibility: hidden;
-  color: #7141b1;
+  color: #ad3806;
   transition: all 0.35s linear;
   -webkit-transition: all 0.35s linear;
   -moz-transition: all 0.35s linear;
@@ -3224,7 +3224,7 @@ a:hover, a:active {
 .widget-area .widget_categories ul li a:hover,
 .widget-area .widget_product_categories ul li a:hover,
 .widget-area .widget_archive ul li a:hover {
-  color: #7141b1;
+  color: #ad3806;
   padding-left: 15px;
 }
 .widget-area .widget_categories ul li a:hover:before,
@@ -3236,7 +3236,7 @@ a:hover, a:active {
 .widget-area .widget_categories ul li a:hover + span,
 .widget-area .widget_product_categories ul li a:hover + span,
 .widget-area .widget_archive ul li a:hover + span {
-  color: #7141b1;
+  color: #ad3806;
 }
 
 .widget .recent-news {
@@ -3264,7 +3264,7 @@ a:hover, a:active {
   display: none;
 }
 .widget .recent-news h6 a:hover {
-  color: #7141b1;
+  color: #ad3806;
 }
 .widget .recent-news .entry-date {
   font-size: 14px;
@@ -3308,7 +3308,7 @@ a:hover, a:active {
   font-size: 16px;
 }
 .search-form .search-submit:hover {
-  background: #7141b1;
+  background: #ad3806;
 }
 
 .instafeed-gallery .instafeed-item {
@@ -3562,7 +3562,7 @@ object {
 .ot-heading > span {
   font-size: 14px;
   font-weight: 800;
-  color: #7141b1;
+  color: #ad3806;
   position: relative;
   display: inline-block;
   margin-bottom: 2px;
@@ -3590,7 +3590,7 @@ object {
 }
 /** Style 1 **/
 .icon-box-s1 .icon-main {
-  color: #7141b1;
+  color: #ad3806;
 }
 .icon-box-s1 .icon-main i, .icon-box-s1 .icon-main span:before {
   font-size: 40px;
@@ -3618,7 +3618,7 @@ object {
   right: 0;
   top: 0;
   width: 0;
-  background: #7141b1;
+  background: #ad3806;
   height: 100%;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
@@ -3649,7 +3649,7 @@ object {
   float: left;
   text-align: center;
   line-height: 1;
-  color: #7141b1;
+  color: #ad3806;
 }
 .icon-box-s2.s1 .icon-main i, .icon-box-s2.s1 .icon-main span:before, .icon-box-s2.s3 .icon-main i, .icon-box-s2.s3 .icon-main span:before {
   font-size: 45px;
@@ -3689,7 +3689,7 @@ object {
   -ms-transition: all 0.2s linear;
 }
 .icon-box-s2.s2 .icon-main {
-  color: #7141b1;
+  color: #ad3806;
   margin-bottom: 30px;
   line-height: 1;
 }
@@ -4008,7 +4008,7 @@ object {
   top: 0;
   opacity: 0;
   visibility: hidden;
-  color: #7141b1;
+  color: #ad3806;
   transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
@@ -4019,7 +4019,7 @@ object {
   background: #f8f8f8;
 }
 .serv-box .content-box ul li:hover a, .serv-box .content-box ul li.active a {
-  color: #7141b1;
+  color: #ad3806;
   padding-left: 15px;
 }
 .serv-box .content-box ul li:hover a:before, .serv-box .content-box ul li.active a:before {
@@ -4490,7 +4490,7 @@ object {
   -ms-transition: all 0.3s linear;
 }
 .project_filters li a:hover, .project_filters li a.selected {
-  color: #7141b1;
+  color: #ad3806;
 }
 .project_filters li a:after {
   position: absolute;
@@ -4498,7 +4498,7 @@ object {
   width: 0%;
   right: 0px;
   bottom: 0px;
-  background-color: #7141b1;
+  background-color: #ad3806;
   content: "";
   display: block;
   border-radius: 1.5px;
@@ -5199,7 +5199,7 @@ object {
 }
 .ot-pricing-table .octf-btn:hover {
   background: #fff;
-  color: #7141b1;
+  color: #ad3806;
 }
 .ot-pricing-table:hover {
   background: #262051;
@@ -5655,7 +5655,7 @@ object {
   color: #fff;
 }
 .ot-tabs .tab-link:hover, .ot-tabs .tab-link:focus {
-  background: #7141b1;
+  background: #ad3806;
   color: #fff;
 }
 .ot-tabs .tab-link.current, .ot-tabs .tab-link:hover {
@@ -5846,12 +5846,12 @@ object {
   color: #43baff;
 }
 .dc-text.dc-text-second .elementor-drop-cap span {
-  color: #7141b1;
+  color: #ad3806;
 }
 
 .wpcf7 .main-form {
   padding: 60px 48px;
-  background-image: linear-gradient(90deg, #00deff 0%, #7141b1 100%);
+  background-image: linear-gradient(90deg, #00deff 0%, #ad3806 100%);
   color: #fff;
 }
 .wpcf7 .main-form h2 {
@@ -5878,7 +5878,7 @@ object {
   font-weight: 800;
 }
 .wpcf7 .main-form button:hover {
-  background: #7141b1;
+  background: #ad3806;
 }
 .wpcf7 .main-form p:last-child {
   margin-bottom: 0;
